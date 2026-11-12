@@ -1,0 +1,4 @@
+streamlit>=1.41,<2
+Pillow>=10,<13
+psycopg[binary]>=3.2,<4
+qrcode[pil]>=8.0,<9
